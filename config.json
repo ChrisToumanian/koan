@@ -1,0 +1,15 @@
+{
+    "credentials": {
+        "bearer_token": "",
+        "api_key": "",
+        "api_key_secret": "",
+        "access_token": "",
+        "access_token_secret": "",
+        "auth_two_client_secret": ""
+    },
+    "library_directory": "/home/path_to/library",
+    "excluded_words": [
+        "bad words and other nonsense goes here"
+    ],
+    "open_ai_api_key": ""
+}
