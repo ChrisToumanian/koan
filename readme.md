@@ -14,3 +14,6 @@ Wombo AI image generation is a work in progress.
 
 # Library Resources
 Project Gutenberg has a large collection of free plain text books.
+
+# Scheduling crontab
+0 */6 * * * /usr/bin/python3 /path_to/koan/tweet.py
